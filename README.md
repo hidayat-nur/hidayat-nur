@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Hidayat
-- 🔭 I’m currently working on [moduit.id](https://www.moduit.id/) as a react native developer. Working with lots of adding new features and bugfix issues to make the app even better.
+- 🔭 I’m currently working on [moduit.id](https://www.moduit.id/) as a Senior Mobile developer. Working with lots of adding new features and bugfix issues to make the app even better.
 - 🌱 Outside of work, I learned a lot of correct coding fundamentals such as clean code, code optimization, and other basic things that I think are important in building applications in a cool and correct way.
 <br />
 <br />
